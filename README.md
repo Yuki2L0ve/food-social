@@ -16,13 +16,13 @@
 
 美食社交APP的需求分析图：
 
-![](G:\others\workspace\github\food-social\README.assets\1708400516399-93543933-c9e4-44d3-a6ae-6037476c78ad.png)
+![](https://cdn.nlark.com/yuque/0/2024/png/32812451/1708400516399-93543933-c9e4-44d3-a6ae-6037476c78ad.png)
 
 
 
 项目功能描述图：
 
-![](G:\others\workspace\github\food-social\README.assets\1708400451898-1dad80cb-04c1-4b89-bd92-7b5e7adebb62.png)
+![](https://cdn.nlark.com/yuque/0/2024/png/32812451/1708400451898-1dad80cb-04c1-4b89-bd92-7b5e7adebb62.png)
 
 
 
