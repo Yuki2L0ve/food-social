@@ -1,0 +1,6 @@
+com\example\gateway\component\HandleException.class
+com\example\gateway\GatewayApplication.class
+com\example\gateway\filter\AuthGlobalFilter.class
+com\example\gateway\config\RestTemplateConfiguration.class
+META-INF\spring-configuration-metadata.json
+com\example\gateway\config\IgnoreUrlsConfig.class

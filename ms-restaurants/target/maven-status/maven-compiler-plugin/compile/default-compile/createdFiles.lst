@@ -1,0 +1,10 @@
+com\example\restaurants\RestaurantApplication.class
+com\example\restaurants\service\RestaurantService.class
+com\example\restaurants\config\RestTemplateConfiguration.class
+com\example\restaurants\controller\ReviewsController.class
+com\example\restaurants\mapper\RestaurantMapper.class
+com\example\restaurants\controller\RestaurantController.class
+com\example\restaurants\mapper\ReviewsMapper.class
+com\example\restaurants\config\RedisTemplateConfiguration.class
+com\example\restaurants\service\ReviewsService.class
+com\example\restaurants\handler\GlobalExceptionHandler.class

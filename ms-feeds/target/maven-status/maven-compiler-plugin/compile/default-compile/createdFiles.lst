@@ -1,0 +1,7 @@
+com\example\feeds\mapper\FeedsMapper.class
+com\example\feeds\controller\FeedsController.class
+com\example\feeds\service\FeedsService.class
+com\example\feeds\handler\GlobalExceptionHandler.class
+com\example\feeds\config\RedisTemplateConfiguration.class
+com\example\FeedsApplication.class
+com\example\feeds\config\RestTemplateConfiguration.class

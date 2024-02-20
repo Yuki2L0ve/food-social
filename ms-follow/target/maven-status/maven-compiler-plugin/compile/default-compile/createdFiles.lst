@@ -1,0 +1,7 @@
+com\example\follow\handler\GlobalExceptionHandler.class
+com\example\follow\config\RedisTemplateConfiguration.class
+com\example\follow\controller\FollowController.class
+com\example\follow\config\RestTemplateConfiguration.class
+com\example\follow\FollowApplication.class
+com\example\follow\service\FollowService.class
+com\example\follow\mapper\FollowMapper.class

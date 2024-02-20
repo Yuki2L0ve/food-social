@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "oauth2.client",
+      "type": "com.example.diners.config.OAuth2ClientConfiguration",
+      "sourceType": "com.example.diners.config.OAuth2ClientConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "oauth2.client.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.diners.config.OAuth2ClientConfiguration"
+    },
+    {
+      "name": "oauth2.client.grant-type",
+      "type": "java.lang.String",
+      "sourceType": "com.example.diners.config.OAuth2ClientConfiguration"
+    },
+    {
+      "name": "oauth2.client.scope",
+      "type": "java.lang.String",
+      "sourceType": "com.example.diners.config.OAuth2ClientConfiguration"
+    },
+    {
+      "name": "oauth2.client.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.diners.config.OAuth2ClientConfiguration"
+    }
+  ],
+  "hints": []
+}

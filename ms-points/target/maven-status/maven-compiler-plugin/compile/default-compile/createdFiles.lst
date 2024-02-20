@@ -1,0 +1,7 @@
+com\example\points\config\RedisTemplateConfiguration.class
+com\example\points\controller\DinerPointsController.class
+com\example\points\PointsApplication.class
+com\example\points\service\DinerPointsService.class
+com\example\points\handler\GlobalExceptionHandler.class
+com\example\points\config\RestTemplateConfiguration.class
+com\example\points\mapper\DinerPointsMapper.class

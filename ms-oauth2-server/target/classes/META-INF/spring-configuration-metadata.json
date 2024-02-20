@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "name": "client.oauth2",
+      "type": "com.example.oauth2.server.config.ClientOAuth2DataConfiguration",
+      "sourceType": "com.example.oauth2.server.config.ClientOAuth2DataConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "client.oauth2.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.oauth2.server.config.ClientOAuth2DataConfiguration"
+    },
+    {
+      "name": "client.oauth2.grant-types",
+      "type": "java.lang.String[]",
+      "sourceType": "com.example.oauth2.server.config.ClientOAuth2DataConfiguration"
+    },
+    {
+      "name": "client.oauth2.refresh-token-validity-time",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.oauth2.server.config.ClientOAuth2DataConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "client.oauth2.scopes",
+      "type": "java.lang.String[]",
+      "sourceType": "com.example.oauth2.server.config.ClientOAuth2DataConfiguration"
+    },
+    {
+      "name": "client.oauth2.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.oauth2.server.config.ClientOAuth2DataConfiguration"
+    },
+    {
+      "name": "client.oauth2.token-validity-time",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.oauth2.server.config.ClientOAuth2DataConfiguration",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
